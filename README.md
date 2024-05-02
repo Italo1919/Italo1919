@@ -1,5 +1,5 @@
 # Olá Pessoal! 👋
-Me chamo Ítalo Fabrício, tenho 16 anos, sou atualmente estudante do Ensino médio. Futuro programador Full Stack.
+Me chamo Ítalo Fabrício, tenho 17 anos, sou atualmente estudante do Ensino médio. Futuro programador Full Stack.
 
 ## 💻 Aprendizados
 <div>
